@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-11T10:45:09Z" name="Suite" finished-at="2018-09-11T10:45:21Z" duration-ms="12368">
+    <groups>
+    </groups>
+    <test started-at="2018-09-11T10:45:09Z" name="initiateDisa" finished-at="2018-09-11T10:45:21Z" duration-ms="12368">
+      <class name="DisaModule.initiateDisa">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:DisaModule.initiateDisa@5562c41e]" started-at="2018-09-11T10:45:02Z" name="setUpBrowser" finished-at="2018-09-11T10:45:09Z" duration-ms="6753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="startDisa()[pri:0, instance:DisaModule.initiateDisa@5562c41e]" started-at="2018-09-11T10:45:09Z" name="startDisa" finished-at="2018-09-11T10:45:21Z" duration-ms="12350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDisa -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:DisaModule.initiateDisa@5562c41e]" started-at="2018-09-11T10:45:22Z" name="closingBrowser" finished-at="2018-09-11T10:45:28Z" duration-ms="6070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- DisaModule.initiateDisa -->
+    </test> <!-- initiateDisa -->
+  </suite> <!-- Suite -->
+</testng-results>
